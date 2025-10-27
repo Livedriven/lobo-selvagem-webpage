@@ -44,17 +44,19 @@ A ideia central é oferecer uma experiência **educativa e visualmente imersiva*
 ## 🧩 Estrutura de diretórios
 
 /
+
 ├── index.html
-│
+
+
 ├── /css
-│   ├── reset.css
-│   ├── variables.css
-│   └── style.css
-│
+│ reset.css
+│ variables.css
+│ style.css
+
 ├── /img
-│   ├── lobo-etiope.jpeg
-│   ├── lobo-uivando.jpg
-|   └── lobo-vermelho.jpeg
+│ lobo-etiope.jpeg
+│ lobo-uivando.jpg
+| lobo-vermelho.jpeg
 |
 └── README.md
 
