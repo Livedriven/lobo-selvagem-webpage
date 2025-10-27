@@ -12,6 +12,7 @@
     min-height: 100dvh;
     background: linear-gradient(to bottom, var(--fundo-principal), var(--fundo-secundario));
     color: var(--texto-principal);
+    font-size: 16px;
 }
 
 .site-header{
@@ -130,10 +131,6 @@
     box-shadow: var(--shadow);
 }
 
-.section p{
-    margin-top: 1em;
-}
-
 #sobre{
     text-align: center;
     margin-bottom: 7px;
@@ -183,7 +180,7 @@
     background-color: var(--curiosidades);
     margin-bottom: 4em;
     width: 100%;
-    font-size: 18px;
+    font-size: 1.2em;
 }
 
 .section-subtitle{
@@ -193,6 +190,9 @@
 
 .article{
     margin-top: 10px;
+}
+.article p{
+    margin-top: 1em;
 }
 
 p{
@@ -212,7 +212,6 @@ p{
     display: block;
     margin-top: 15px;
     list-style: inside;
-    font-size: 16px;
 }
 .list li{
     margin-top: 7px;
