@@ -10,7 +10,8 @@ Este projeto está **em fase inicial de desenvolvimento**, e tem como próxima e
 
 🔗 **Em breve:** versão hospedada no GitHub Pages  
 📸 **Prévia visual:**  
-<img width="317" height="816" alt="image" src="https://github.com/user-attachments/assets/e4be66d8-d4a5-4fc9-9045-2854182db463" />
+<img width="322" height="807" alt="image" src="https://github.com/user-attachments/assets/3eb5d414-16aa-4160-905d-e4a91216a400" />
+
 
 ---
 
@@ -36,8 +37,7 @@ A ideia central é oferecer uma experiência **educativa e visualmente imersiva*
 ## 🛠️ Tecnologias utilizadas
 
 - **HTML5 Semântico**  
-- **CSS3 (Grid Layout, Flexbox, variáveis e transições)**  
-- **JavaScript (menu mobile oculto)**  
+- **CSS3 (Grid Layout, Flexbox, variáveis e transições)**   
 
 ---
 
@@ -65,7 +65,7 @@ A ideia central é oferecer uma experiência **educativa e visualmente imersiva*
 
 - Estruturação semântica utilizando `header`, `main`, `section`, `article` e `footer`  
 - Layout construído com **CSS Grid** e **Mobile First**  
-- **Menu oculto tipo hambúrguer**, controlado por CSS e JavaScript  
+- **Menu oculto tipo hambúrguer**, controlado por CSS 
 - **Transições suaves** aplicadas a links e interações visuais  
 - Uso de **variáveis CSS** (`:root`) para consistência de cores e fácil manutenção  
 - Planejamento de **contraste entre seções** para reforçar hierarquia visual  
@@ -98,7 +98,7 @@ Durante o desenvolvimento, foram aplicados princípios de:
 ## 👨‍💻 Autor
 
 Desenvolvido com dedicação por **Richard**  
-📎 **GitHub:** [@teuusuario](https://github.com/teuusuario)  
+📎 **GitHub:** [@Livedriven](https://github.com/Livedriven)  
 💬 “O código é como um lobo: só respeita quem domina o silêncio e entende o instinto.”
 
 ---
