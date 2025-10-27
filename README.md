@@ -8,7 +8,7 @@ Este projeto está **em fase inicial de desenvolvimento**, e tem como próxima e
 
 ## 🚀 Demonstração
 
-🔗 **Em breve:** versão hospedada no GitHub Pages  
+🔗 ** https://livedriven.github.io/lobo-selvagem-webpage/** versão hospedada no GitHub Pages  
 📸 **Prévia visual:**  
 <img width="322" height="807" alt="image" src="https://github.com/user-attachments/assets/3eb5d414-16aa-4160-905d-e4a91216a400" />
 
