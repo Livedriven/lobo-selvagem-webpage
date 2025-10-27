@@ -10,7 +10,7 @@ Este projeto está **em fase inicial de desenvolvimento**, e tem como próxima e
 
 🔗 **Em breve:** versão hospedada no GitHub Pages  
 📸 **Prévia visual:**  
-*(adicione aqui o print do site — exemplo: <img width="317" height="816" alt="image" src="https://github.com/user-attachments/assets/e4be66d8-d4a5-4fc9-9045-2854182db463" />)*
+<img width="317" height="816" alt="image" src="https://github.com/user-attachments/assets/e4be66d8-d4a5-4fc9-9045-2854182db463" />
 
 ---
 
