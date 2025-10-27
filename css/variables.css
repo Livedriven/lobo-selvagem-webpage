@@ -1,0 +1,19 @@
+:root{
+    --fundo-principal:#0F172A;
+    --fundo-secundario:#2f3b50;
+    --texto-principal:#F8FAFC;
+    --acentos:#6366F1;
+    --destaque:#F59E0B;
+    --fundo-header:#1C2833;
+    --fundo-links:#71677c71;
+    --shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+.temas-sections{
+    --caracteristicas:#222b3a;
+    --habitat:#2d3748;
+    --comportamento:#18212b;
+    --reproducao:#253040;
+    --conservacao:#0f1a24;
+    --curiosidades:#343c4a;
+}
