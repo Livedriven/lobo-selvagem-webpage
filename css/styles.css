@@ -14,6 +14,7 @@
 .site-header{
     grid-area: header;
     height: auto;
+    width:100%;
     margin: 5px 10px;
     padding: 20px;
     border-radius: 12px;
