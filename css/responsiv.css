@@ -1,0 +1,21 @@
+@media(max-width: 325px){
+    .lobo-vermelho img {
+        width: 94%;
+        margin-bottom: 10px;
+    }
+}
+
+@media (min-width: 750px){
+    .img-lobo {
+        flex-direction: row !important;
+        align-items: center;
+        justify-content: space-between;
+        gap: 1rem;
+    }
+
+    .img-lobo div {
+        width: 50%;
+    }
+}
+
+

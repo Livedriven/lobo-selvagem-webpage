@@ -1,5 +1,7 @@
 @import url(reset.css);
-@import url(variable.css);
+@import url(variables.css);
+@import url(responsiv.css); /* DEVE vir por último */
+
 
 .page{
     display: grid;
@@ -106,8 +108,7 @@
     display: flex;
     flex-direction: column;
     height: auto;
-    width: 90%;
-    margin-top: 10px;
+    margin-top: 5%;
 }
 
 .hero__image img{
@@ -136,8 +137,9 @@
     justify-self: center;
     margin-top: 10px;
 }
-.article p{
-    margin-top: 1em;
+
+.article p {
+    margin-top: 0.5rem;
 }
 
 .article__header{
@@ -166,25 +168,22 @@
     background-color: var(--conservacao);
 }
 
-#conservacao div{
-    height: auto;
-}
 
 #conservacao div h5{
     text-align: center;
 }
 
-#conservacao figure{
+.img-lobo{
     display: flex;
     flex-direction: column;
     margin-top: 15px;
-    height: 70%;
-    width: 70%;
+    height: auto;
+    width: 100%;
 }
 
-#conservacao figure img{
-    border-radius: 10px;
-    margin: 7px;
+.img-lobo img{
+    border-radius: 7px;
+    margin-top: 6px;
 }
 
 #curiosidades{
@@ -226,9 +225,26 @@ p{
     gap: 0.7rem;
 }
 
+.article__footer{
+    margin-top: 1.2rem;
+}
+
 .site-footer{
     grid-area: footer;
     text-align: center;
     font-size: 1.2em;
     margin-bottom: 5px;
+}
+
+      /* AJUSTES */
+
+.lobo-etiope{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.lobo-vermelho{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
